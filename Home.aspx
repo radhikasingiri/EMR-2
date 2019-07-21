@@ -8,7 +8,7 @@
         healthcare services. Through our mixed portfolio of well-established, matured facilities and newly established facilities, we provide 
         treatment for acute and chronic diseases across secondary, tertiary and quaternary healthcare sectors. 
         In addition to providing core medical, surgical and emergency services, we provide complex and advanced quaternary healthcare in various 
-        specialties under disciplines such as neurosciences, cardiac sciences, oncology, orthopaedics, renal sciences and gastric sciences.
+        specialties under disciplines such as Pediatrics, Neurosciences, Cardiac Sciences, Oncology, Orthopaedics, Renal sciences and Gastric sciences.
         <br />
         <br />
         <br />
